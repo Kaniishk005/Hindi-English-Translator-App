@@ -4,3 +4,4 @@ torch==2.1.2
 sentencepiece
 tokenizers
 protobuf
+numpy==1.26.4
