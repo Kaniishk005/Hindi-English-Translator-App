@@ -2,3 +2,4 @@ streamlit
 transformers==4.35.2
 torch==2.1.2
 sentencepiece
+python-version == "3.10"
