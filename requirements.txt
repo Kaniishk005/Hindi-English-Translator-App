@@ -1,5 +1,4 @@
-# Core Libraries
 streamlit
-transformers
-torch
+transformers==4.35.2
+torch==2.1.2
 sentencepiece
