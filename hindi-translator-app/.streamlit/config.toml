@@ -1,0 +1,9 @@
+[theme]
+# The main background color
+backgroundColor = "#FFB6C1"
+
+# The background color of widgets (like the selectbox and text areas)
+secondaryBackgroundColor = "#FFE9EC"
+
+# The color of the text
+textColor = "#31333F"
